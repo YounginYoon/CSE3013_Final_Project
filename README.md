@@ -4,7 +4,7 @@
 <p align="center">
  <img src="https://github.com/YounginYoon/CSE3013_Final_Project/assets/92067715/6ffb919b-655c-492d-9ed9-e535a47bcb2d" width="350px"/>
   <br/>
- <img src="https://github.com/YounginYoon/CSE3013_Final_Project/assets/92067715/ac8c23cc-4795-4133-9b52-698ba59452f0" width="500px"/>
+ <img src="https://github.com/YounginYoon/CSE3013_Final_Project/assets/92067715/ac8c23cc-4795-4133-9b52-698ba59452f0" width="900px"/>
 </p>
 <br/>
 
